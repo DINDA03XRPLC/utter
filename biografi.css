@@ -1,0 +1,461 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}
+.biografi-J7s {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.biografi-J7s .auto-group-zmqj-XFX {
+  box-sizing: border-box;
+  padding: 5.117rem 6.4rem 3.917rem 7.117rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(215, 169, 229, 0.6000000238);
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-zmqj-XFX .mdi-instagram-wTf {
+  margin-right: 5.8833rem;
+  width: 4.1667rem;
+  height: 4.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-zmqj-XFX .ic-baseline-tiktok-drH {
+  margin: 0rem 5.787rem 0rem 0rem;
+  width: 3.2667rem;
+  height: 3.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-zmqj-XFX .mdi-twitter-9pd {
+  margin: 0.208rem 42.321rem 0rem 0rem;
+  width: 4.3583rem;
+  height: 3.5417rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-zmqj-XFX .biograph-5TP {
+  margin: 0rem 5.5rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-zmqj-XFX .skill-xXB {
+  margin: 0rem 6.3rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-zmqj-XFX .achievement-561 {
+  margin: 0rem 6.1rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-zmqj-XFX .experience-ySH {
+  margin-bottom: 0.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm {
+  box-sizing: border-box;
+  padding: 8rem 0rem 0rem 0.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-5jrh-AWm {
+  margin: 0rem 24.15rem 10.4rem 23.45rem;
+  width: calc(100% - 47.6rem);
+  height: 9.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-5jrh-AWm .my-biograph-GZo {
+  width: 45.2rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 27.65rem;
+  top: 0;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-5jrh-AWm .vector-1-xBj {
+  width: 96.3rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 4.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 {
+  margin: 0rem 10.1rem 6.7rem 10.2rem;
+  box-sizing: border-box;
+  padding: 5.4rem 5.7rem 4.4rem 5.6rem;
+  width: calc(100% - 20.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fdfdfd;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .logo3-1-LCH {
+  margin-bottom: 6.7rem;
+  width: 112.3rem;
+  height: 63.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .auto-group-mql9-3cV {
+  margin: 0rem 10.2rem 4.9rem 4.7rem;
+  width: calc(100% - 14.9rem);
+  height: 19.9002rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .auto-group-mql9-3cV .auto-group-ev3b-LrV {
+  margin: 0rem 3.25rem 0rem 0rem;
+  height: calc(100% - 0.0002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .auto-group-mql9-3cV .auto-group-ev3b-LrV .adinda-salsabila-nur-a-syifaa-GVF {
+  margin-bottom: 1.3rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .auto-group-mql9-3cV .auto-group-ev3b-LrV .auto-group-qtzk-L7j {
+  width: 63.2rem;
+  height: 11.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .auto-group-mql9-3cV .auto-group-ev3b-LrV .auto-group-qtzk-L7j .siswi-dari-smk-negeri-8-malang-Ujj {
+  width: 63.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .auto-group-mql9-3cV .auto-group-ev3b-LrV .auto-group-qtzk-L7j .rekayasa-perangkat-lunak-aXs {
+  width: 55.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 5.4rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .auto-group-mql9-3cV .vector-2-t2m {
+  margin-right: 7.25rem;
+  width: 0;
+  height: 12.7004rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .auto-group-mql9-3cV .file1448163524-removebg-preview-1-cUZ {
+  margin-bottom: 0.3002rem;
+  width: 13.3rem;
+  height: 13.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-esvo-fM3 .saya-merupakan-siswi-berusia-18-tahun-yang-sedang-menepuh-pendidikan-di-smkn-8-malang-jurusan-rpl-dan-ini-merupakan-tahun-ketiga-atau-terakhir-saya-saya-lahir-di-surabaya-pada-11-april-2005-memiliki-2-saudara-laki-laki-dan-saya-merupakan-anak-tengah-saya-tinggal-bersama-kedua-orang-tua-saya-pada-saat-ini-yang-beralamatkan-di-perumahan-graha-permata-pakis-kabmalang-kegemaran-saya-yaitu-dance-menyanyi-juga-menggambar-anime-kartun-inV {
+  margin-right: 0.4rem;
+  max-width: 102.5rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ {
+  margin: 0rem 10.1rem 6.7rem 10.2rem;
+  box-sizing: border-box;
+  padding: 2.8rem 20.2rem 4.5rem 10.3rem;
+  width: calc(100% - 20.3rem);
+  display: flex;
+  flex-direction: column;
+  background-color: #fdfdfd;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .riwayat-pendidikan-dan-organisasi-sSR {
+  margin-bottom: 3.5rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-mdvj-mGu {
+  margin: 0rem 30.1rem 2rem 0.208rem;
+  width: calc(100% - 30.3083rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-mdvj-mGu .material-symbols-school-4mo {
+  margin: 0rem 2.408rem 1rem 0rem;
+  width: 4.5833rem;
+  height: 3.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-mdvj-mGu .sekolah-dasar-2012-2018-NnV {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .sdn-1-pakisjajar-uGd {
+  margin: 0rem 0rem 1.9rem 5.5rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-8kqf-DYD {
+  margin: 0rem 1.8rem 2.1rem 0.208rem;
+  width: calc(100% - 2.0083rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-8kqf-DYD .material-symbols-school-wj7 {
+  margin: 0rem 2.408rem 1rem 0rem;
+  width: 4.5833rem;
+  height: 3.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-8kqf-DYD .sekolah-menengah-pertama-2018-2021-TxM {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .smpn-1-pakis-B7f {
+  margin: 0rem 0rem 2rem 5.5rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-uhqb-HwP {
+  margin: 0rem 0rem 1.9rem 0.408rem;
+  width: calc(100% - 0.4083rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-uhqb-HwP .material-symbols-school-dVT {
+  margin: 0rem 2.408rem 1rem 0rem;
+  width: 4.5833rem;
+  height: 3.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-uhqb-HwP .sekolah-menengah-kejuruan-2021-2024-9To {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .smkn-8-malang-GYR {
+  margin: 0rem 0rem 2.1rem 5.5rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-u2nm-CS5 {
+  margin: 0rem 63.5rem 2.1rem 0.4rem;
+  width: calc(100% - 63.9rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-u2nm-CS5 .clarity-organization-solid-jB7 {
+  margin-right: 2.4rem;
+  width: 5rem;
+  height: 5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .auto-group-u2nm-CS5 .organisasi-fKf {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-ccvd-oSZ .karang-taruna-2021-sekarang-18d {
+  margin-left: 5.5rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-udnz-J7j {
+  margin: 0rem 10.1rem 28.4rem 10.2rem;
+  box-sizing: border-box;
+  padding: 6rem 6.6rem 6rem 10.5rem;
+  width: calc(100% - 20.3rem);
+  height: 77.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #fdfdfd;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-udnz-J7j .rectangle-34-nYh {
+  margin-right: 7.5rem;
+  width: 39.1rem;
+  height: 65.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-udnz-J7j .auto-group-bzgd-K2q {
+  margin: 2.4rem 0rem 2.7rem 0rem;
+  height: calc(100% - 5.1rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-udnz-J7j .auto-group-bzgd-K2q .tentang-sekolah-eL1 {
+  margin-bottom: 1.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-udnz-J7j .auto-group-bzgd-K2q .smkn-8-malang-beralamatkan-di-jl-teluk-pacitan-arjosari-kec-blimbing-kota-malang-jawa-timur-memiliki-4-program-keahlian-yaitu-mekatronika-teknik-komputer-dan-jaringan-rekayasa-perangkat-lunak-dan-elektronik-industri-tentunya-sekolah-ini-juga-sudah-bersertifikat-international-dan-memiliki-fasilitas-yang-lengkap-dan-memadai-BKw {
+  max-width: 59.9rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.biografi-J7s .auto-group-untz-sGm .auto-group-vfjf-Y41 {
+  width: 144rem;
+  height: 13.2rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(215, 169, 229, 0.6000000238);
+  flex-shrink: 0;
+}
